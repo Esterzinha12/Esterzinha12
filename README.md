@@ -1,4 +1,5 @@
-### Hello! I'm Ester Girelli
+### Hello! 
+### I'm Ester Girelli
 
 ##
 - 💼 Working at WEG
