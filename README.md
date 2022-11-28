@@ -1,14 +1,13 @@
-### Hi! I'm Eduarda 👋
+### Hi! I'm Ester 👋
 
 ##
 - 🔭 Working at WEG
 - 🌱 Information Systems Programming Technician
-- 💻 Analysis and Systems Development - PUCPR
 
 ##
 
 <div align="center">
-  <a href="https://github.com/eduardabolgenhagen">
+  <a href="https://github.com/Esterzinha12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardabolgenhagen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabolgenhagen&layout=compact&langs_count=7&theme=dracula"/>
 </div>
