@@ -1,10 +1,8 @@
-### Hello! 
-# I'm Ester Girelli
+### Hello! I'm Ester Girelli
 
 ##
 - 💼 Working at WEG
 - 💻 Information Systems Programming Technician
-
 ##
 
 <div align="center">
@@ -21,4 +19,4 @@
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </div>
  
-  ##
+ ##
